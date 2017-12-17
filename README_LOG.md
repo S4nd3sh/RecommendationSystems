@@ -29,6 +29,6 @@ Till today(17 - 12 - 2017) accomplished tasks stands as below.
       
       
 ###Inprogress:  
-5) Packaging all the methods into one package and make it available for public.
+5) Packaging all the methods into one package and make it available for public.  
 6) Optimizing the code for better performance. Using RCpp to implement certain functions and logic where ever necessary to improve the performace of the code.
 
