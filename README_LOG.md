@@ -1,5 +1,5 @@
 # RecommendationSystems
-R Package for Recommendation Systems without ratings dataset.
+R Package for Recommendation Systems with Implicit Feedback.
 
 The below goals were setup on July - 2017 but the development kept happening with out github.
 All the progress can be found starting today 
